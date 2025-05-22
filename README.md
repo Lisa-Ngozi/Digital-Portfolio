@@ -1,5 +1,7 @@
 🙂Lisa-Ngozi# Digital-Portfolio/README.md
 
+📚 Final-year ICT: Applications Development student at Cape Peninsula University of Technology
+
 🌱 I’m currently working on a CPUT Bus Transit System , it is a system that provides live shuttle tracking and notification.
    I am also working on an CPUT Cafeteria Menus and More, it is a web-based menu viewing and pre-ordering system for meals
    
