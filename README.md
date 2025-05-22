@@ -8,15 +8,16 @@
 👩🏽‍💻 I’m currently learning Data analysis, and learning how to use PowerBI.
    I'm also learning new programming languages such as react.
    
-🤝 I’m looking to collaborate on Projects that encourage campus services or  digital safety
+🤝 I’m looking to collaborate on Projects that encourage campus services or  digital safety.
+
 🔍 I’m looking for help with with Implementing strong security features in student computers.
+
 💬 Ask me about UI/UX design for campus applications, secure student information systems.
 
-📫 How to reach me on LinkedIn:www.linkedin.com/in/
-phindile-lisa-ngozi-2077442b6
-Cell: 0723324418
-Personal email address:phindilengozi74@gmail.com
-Outlook email address: 230640893@mycput.ac.za
+📫 How to reach me on LinkedIn:www.linkedin.com/in/phindile-lisa-ngozi-2077442b6,
+Cell: 0723324418,
+Personal email address:phindilengozi74@gmail.com,
+Outlook email address: 230640893@mycput.ac.za,
 
 🧠 Pronouns: she/her
 
