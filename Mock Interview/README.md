@@ -1,6 +1,5 @@
-https://github.com/wil-it2025/cv-tutorial-Lisa-Ngozi/blob/main/Mock%20Interview%20Video%20Assignment.mp4
+[Please Watch My Mock Interview Video](https://1drv.ms/v/c/335f4575eedcb1ec/ETBXgl0iBcxHjhJB36UoOL0ByUldn6XHxGeMBqz4FQvnfQ?e=adER7L)
 
-![Mock Interview](https://github.com/user-attachments/assets/9881e10e-4c92-45a9-bdab-0981214fafc4)
 
 # Mock Interview Reflection
 
